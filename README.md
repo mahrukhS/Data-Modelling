@@ -67,6 +67,7 @@ Multiclass Classification steps:
 <p align="center">
 <img src="https://github.com/mahrukhS/Data-Modelling/assets/66876079/25c0232f-b3c0-4896-b0ad-a9bfc9300d6f.type" width="500" height="300" >
 </p>
+
 ###### 2. Multiclassification Performance Evaluation
-                 /***LDA Performance Evaluation***/
+        /***LDA Performance Evaluation***/
 
