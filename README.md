@@ -43,9 +43,11 @@ Multicalss Classification steps:
 
 # Results and Discussion 
   ###### 1. Evaluating Binary Classifier Performance Evaluation
-            /*** LSTM Performance, ML Classifiers Performance ***/
-            **Tabular Comparison of ML Classifiers' Performance**
-            ![image](https://github.com/mahrukhS/Data-Modelling/assets/66876079/594b35a0-e3d9-4099-9c08-b95950790355)
+            /*** ML Classifiers Performance ***/
+            
+|**Collective ROC of ML Classifiers**| **Graphical Comparison of ML Classifiers' Performance**|
+| ----------------------------------- | ----------------------------------- |
+| ![image](https://github.com/mahrukhS/Data-Modelling/assets/66876079/c5955b4a-5e52-4d78-b1da-6f11035551cd)|![image](https://github.com/mahrukhS/Data-Modelling/assets/66876079/543be38e-2d97-44a0-a688-4d86e49148bf) |
 
   ###### 2. Multiclassification Performance Evaluation
                  /***LDA Performance Evaluation***/
